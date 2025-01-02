@@ -15,3 +15,7 @@ Node* createNode(int data) {
     newNode->right = NULL;
     return newNode;
 }
+int main() {
+    printf("Arborele este în construcție.\n");
+    return 0;
+}
